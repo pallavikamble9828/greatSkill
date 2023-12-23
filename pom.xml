@@ -3,5 +3,5 @@
   <groupId>pk</groupId>
   <artifactId>jrtp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>01_maven</name>
+  <name>02_maven</name>
 </project>
